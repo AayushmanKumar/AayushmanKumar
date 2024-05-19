@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p>My name is Aayushman Kumar.<br>I am a sophomore at IIT Kanpur.<br>  Thanks for checking out out my github profile !</p>
+<p>My name is Aayushman Kumar, and I am a sophomore at IIT Kanpur.<br>  Thanks for checking out out my github profile !</p>
 
 <!--
 **AayushmanKumar/AayushmanKumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
