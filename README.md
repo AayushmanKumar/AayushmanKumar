@@ -1,6 +1,7 @@
 ### Hi there 👋
 My name is Aayushman Kumar.
-I am a sophomore at IIT Kanpur !
+- I am a sophomore at IIT Kanpur !
+
 <!--
 **AayushmanKumar/AayushmanKumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
