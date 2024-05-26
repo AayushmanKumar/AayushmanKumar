@@ -1,6 +1,5 @@
 ### Hi there 👋
 <p>My name is Aayushman Kumar, and I am a sophomore at IIT Kanpur.<br>  Thanks for checking out out my github profile !</p>
-
 <!--
 **AayushmanKumar/AayushmanKumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
