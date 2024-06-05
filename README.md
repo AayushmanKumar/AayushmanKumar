@@ -1,5 +1,10 @@
 ### Hi there 👋
-<p>My name is Aayushman Kumar, and I am a sophomore at IIT Kanpur.<br>  Thanks for checking out out my github profile !</p>
+<p>
+  My name is Aayushman Kumar, and I am a sophomore at IIT Kanpur.<br>
+  🌱 I’m currently learning Python, DSA, Linux, etc. and<br>
+  🤔 I’m looking for help with NeoVim, Z shell, i3-wm !<br>
+  Thanks for checking out out my github profile :)
+</p>
 <!--
 **AayushmanKumar/AayushmanKumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
