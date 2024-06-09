@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p>
   My name is Aayushman Kumar, and I am a sophomore at IIT Kanpur.<br>
-  🌱 I’m currently learning Python, DSA, How to exti Neovim, etc. and<br>
+  🌱 I’m currently learning Python, DSA, How to exit Neovim, etc. and<br>
   🤔 I’m looking for help with Z shell, i3-wm and how to exit Neovim!<br>
   Thanks for checking out out my github profile :)
 </p>
